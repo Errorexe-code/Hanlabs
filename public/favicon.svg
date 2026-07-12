@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background with rounded corners -->
+  <rect width="512" height="512" rx="96" ry="96" fill="#07070A"/>
+
+  <!-- Letter H — clean geometric strokes -->
+  <!-- Left vertical stroke -->
+  <rect x="136" y="140" width="58" height="232" rx="12" fill="#C8C6D4"/>
+  <!-- Right vertical stroke -->
+  <rect x="318" y="140" width="58" height="232" rx="12" fill="#C8C6D4"/>
+  <!-- Crossbar -->
+  <rect x="136" y="227" width="240" height="58" rx="12" fill="#C8C6D4"/>
+
+  <!-- Violet accent dot at top-right stroke endpoint -->
+  <circle cx="347" cy="148" r="28" fill="#7C3AED"/>
+</svg>
