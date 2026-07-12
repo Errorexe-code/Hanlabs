@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { Navbar } from './components/Navbar';
 import { Hero } from './components/Hero';
 import { PullQuote } from './components/PullQuote';
@@ -32,6 +33,7 @@ export default function App() {
         <CTASection />
       </main>
       <Footer />
+      <SpeedInsights />
     </div>
   );
 }
